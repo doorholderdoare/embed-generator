@@ -5,7 +5,7 @@ Refurnished by - skip#9665
 Basic Discord.py Embed Generator -
 If you do not know how to create an embed/aren't bothered to then this tool will be useful for you.
 
-If there are any issues please do let me know by dropping me a message on discord. I can reply as soon as I can
+If there are any issues please do let me know by dropping me a message on discord. I will reply as soon as possible
 
 # Updates
 
