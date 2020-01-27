@@ -16,7 +16,6 @@ while m == True:
         if title == 1:
             title = input("Title of your Embed? -\n")
             description = input('Description of your Embed? -\n')
-            print('For your color make sure that you put "0x" before your hex code.')
             color = input('Color of your Embed? -\n')
             finalsend1 = 'discord.Embed(title = "{}", description = "{}", color = "0x{}")'.format(title, description, color)
             x = open('Embeds.txt', 'a')
